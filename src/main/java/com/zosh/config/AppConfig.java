@@ -52,7 +52,7 @@ public class AppConfig {
 						"http://localhost:4000",
 						"http://localhost:4200",
 						"https://zosh-social.vercel.app",
-						"https://render-app-production.up.railway.app/"
+						"https://render-app-production.up.railway.app"
 						
 						));
 				cfg.setAllowedMethods(Collections.singletonList("*"));
